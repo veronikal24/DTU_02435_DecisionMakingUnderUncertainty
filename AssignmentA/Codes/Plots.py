@@ -9,7 +9,6 @@ Created on Sat Dec 28 12:59:29 2024
 import data
 import matplotlib.pyplot as plt
 
-
 initial_state = {'hydrogen': 0, 'electrolyzer_status': 0}
 
 times = range(data['num_timeslots'])
